@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Niru Adhikari
+- 👋 Hi, I’m Niru Adhikari.
 - 👀 I’m interested in cloud Security.
 - 🌱 I’m currently pursuing Ms in Cybersecurity.
