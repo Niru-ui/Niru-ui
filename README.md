@@ -12,10 +12,10 @@
 
 ```
 
-- 🏫: I'm a pre-final year, Computer Science Student.
-- 🔭: I’m currently working as a Devops Intern.
-- 🌱: I am located in Shimla, Himachal Pradesh , India.
-- 🤔 I’m lalso working as a contributing writter.
+- 🏫: I'm a First year, Master's student in CyberSecurity.
+- ⁠🌱: currently learning Cloud Computing,Network Security and Linux.
+- ⁠🔐: Interested in CyberSecurity, Cloudsecurity and DevSecops.
+- ✍️: Actively documenting my Master's journey through blog post on Medium.
 
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
