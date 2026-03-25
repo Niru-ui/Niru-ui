@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niru Adhikari</h1>
-<h3 align="center">Cybersecurity Student | Cloud Security Enthusiast | DevSecOps Learner</h3>
+<h3 align="center">Cybersecurity Student | Cloud Security | DevSecOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MS+Cybersecurity+Student;Cloud+Security+Enthusiast;Learning+%7C+Building+%7C+Securing&center=true&width=500&height=50" />
@@ -7,38 +7,33 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me</h2>
 
-- 🎓 MS in Cybersecurity student at Wright State University  
-- ☁️ Currently learning Cloud Security, Network Security, Linux, and DevSecOps  
-- 🔐 Interested in Cybersecurity, Cloud Security, and secure system design  
-- 🛠️ Building hands-on projects in AWS, Python, Django, and HPC environments  
-- ✍️ Actively documenting my learning journey and technical projects  
-- 🎯 Seeking opportunities in Cybersecurity / Cloud Security internships  
-
-<p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding" width="250" />
+<p>
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="230" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 ### 🔐 AWS Cloud Security Auditor
-- Built a Python-based security auditing tool for AWS environments  
-- Checks IAM, S3, EC2, and CloudTrail for common misconfigurations  
-- Generates security findings with actionable recommendations  
-- Focused on improving visibility into cloud security posture  
+- Python-based tool to audit AWS environments  
+- Detects misconfigurations in IAM, S3, EC2, and CloudTrail  
+- Generates structured security reports with risk levels  
 
-### 💻 TechnicalClusterManager
-- Developed a full-stack Django application to manage HPC tasks  
-- Integrated Slurm-based job submission and monitoring  
-- Deployed workflow components with AWS and backend services  
-- Built to simplify computation management and result tracking  
+### 💻 TechnicalClusterManager (Django + HPC)
+- Full-stack web application to manage HPC workloads  
+- Integrated Slurm for job execution and monitoring  
+- Displays computation results via web interface  
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technical Skills
+<h2>🎯 Current Focus</h2>
+
+---
+
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technical Skills</h2>
 
 ### Programming Languages
 <p>
@@ -56,43 +51,26 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### Areas of Interest
-- Cloud Security  
-- Network Security  
-- DevSecOps  
-- Linux Administration  
-- Secure System Design  
-- Threat Detection  
-
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Let's Connect
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:neeruadhikari093@gmail.com">
-    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" width="65" height="65"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" width="60"/>
   </a>
   <a href="https://github.com/Niru-ui">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" width="65" height="65"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png" width="60"/>
   </a>
   <a href="https://www.linkedin.com/in/niru-adhikari-9aba4b1a6/">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" width="65" height="65"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="60"/>
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<h2>✨ Motto</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niru-ui&show_icons=true&theme=tokyonight" alt="Niru's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niru-ui&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
----
-
-## ✨ Motto
-
-<p align="center">
-  Learning every day, building with purpose, and growing into a stronger cybersecurity professional.
+Focused on building secure systems, learning continuously, and growing in cloud cybersecurity.
 </p>
