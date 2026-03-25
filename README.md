@@ -99,12 +99,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<h3>Core Areas</h3>
-
-<p>
-Cloud Security • Network Security • DevSecOps • Linux Administration • Secure System Design
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
